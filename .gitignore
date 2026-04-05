@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.streamlit/secrets.toml
+models/*.pkl
+data/*.csv
+data/processed/*.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+PROJECT_VIVA_DOCUMENTATION.txt
+.venv/
+src/*
