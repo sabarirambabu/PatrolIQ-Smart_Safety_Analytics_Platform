@@ -4,6 +4,7 @@ __pycache__/
 .streamlit/secrets.toml
 models/*.pkl
 data/*.csv
+!data/crime_hotspot_clusters.csv
 data/processed/*.csv
 __pycache__/
 .ipynb_checkpoints/

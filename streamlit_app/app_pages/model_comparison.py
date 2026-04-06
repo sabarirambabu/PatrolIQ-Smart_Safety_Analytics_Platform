@@ -6,7 +6,7 @@ def show():
 
     df = pd.DataFrame({
         "Algorithm": ["KMeans", "DBSCAN", "Hierarchical"],
-        "Score": [0.39, 0.09, 0.38]
+        "Score": [0.36, -0.72, 0.33]
     })
 
     st.table(df)
